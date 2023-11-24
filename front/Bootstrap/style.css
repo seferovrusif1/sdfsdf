@@ -1,0 +1,8 @@
+#image{
+    height: 285px;
+}
+.row{
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important  ;
+}
